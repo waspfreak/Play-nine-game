@@ -1,6 +1,6 @@
-<a href="http://murmuring-waters-25285.herokuapp.com/">DEMO APP </a>
 
-<h1>Reactjs card use github user</h1>
+
+<h1>Play nine use ReactJs</h1>
 
 run npm install
 
